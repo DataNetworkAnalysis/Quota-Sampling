@@ -1,3 +1,5 @@
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDataNetworkAnalysis%2FQuota-Sampling)
+
 # Quota Sampling
 *Creating a Quota Program for Lazy Researchers*
 
